@@ -1,0 +1,93 @@
+CONSTELLATION
+
+KICKSAT
+
+    A technology demonstration mission
+    Designed to demonstrate the deployment of 104 Sprite “Chipsats” (3.2cm x 3.2cm x a few mm)
+    Orbital lifetime of only a few days
+    Aim was to advance technologies for low cost ChipSat missions
+    A few things we can do with ChipSats
+    Large scale in-situ atmospheric survey
+    General advantages of chipsats
+    ChipSat sensor clouds will allow thousands of data points to be collected simultaneously
+    Reduce cost and complexity
+    High robustness to individual satellite failures
+
+Each sprite had
+---------------
+    Solar cells
+    Magnetometer
+    Gyroscope
+    Radio
+    Antenna
+    
+Antenna made of a nickel titanium alloy nitinol. It has the unique property of coming back to its original geometry even after a lot of deformation. Ensuring easy antenna deployment
+Didn't have batteries as that would require a temperature maintenance system hence the sprites operate only in sunlight 
+Due to licensing constraints the sprites must share a limited band width
+Antenna communication was the biggest challenge
+
+Power was 10mW (can’t be increased due to limited surface area for solar panel)
+A high gain antenna can’t be used(??)
+The signal is less audible than noise
+——————————————————————————————————————
+Requirements on OBC
+-------------------
+
+    Payload — They didn't have any specific payload so no requirement
+    System — Pre flight checks, I don't think they sen any health monitoring data. The main cubesat probably sent down HMD
+    Mech — Size! The sprites need to be designed carefully. Even the solar panel is placed directly on the chip
+    ADCS — Interface with gyroscope, magnetometer, radio etc
+    Actuation — gyro interaction
+    Power —  We can’t have large solar panels as it is placed on the chip itself. So need to optimise power consumption as much as possible. No power supply in the ‘night’ so circuit must be designed accordingly. So data must be sent frequently
+    Integration — Natural frequency etc. must be taken care of
+——————————————————————————————————————
+Requirements by OBC
+-------------------
+    Thermals — No active temperature control system
+——————————————————————————————————————
+Requirements on power
+----------------------
+
+    Don’t have data about power - obc interactions. Power and obc are probably together
+—————————————————————————————————————-
+Requirements by power
+-------------------
+    Integration — No shadow on solar panels
+    Controls — Orient the chipsat so that the solar panels get the maximum power
+    Thermals — Need to ensure the temperature is within acceptable range
+
+
+
+AEROCUBE 4
+
+Technology demonstration
+Had wings with solar panels to control ballistic coefficient
+
+———————————————————————————————————————
+Requirements on OBC
+
+    ADCS — Interface with sun sensor, GPS, magnetometer, magnetorquer, earth sensor, attitude sensors, formation flying
+    Payload — Interface between comm and cameras
+    Mech — Size and weight constraint(as it is a cubesat) 
+    Comm — Interface with controls and determine when to send data etc. (The satellite   is also reprogrammable)
+    Actuation — Magnetorquer and wing interaction
+    Power — Has batteries. Requirements probably similar to that of Pratham
+    Integration — Natural frequencies shadows etc
+
+———————————————————————————————————————
+Requirements by OBC
+
+    Thermals — Maintain suitable temperature ranges
+    Power — probably similar to pratham
+
+———————————————————————————————————————
+On Power
+
+    Integration — Probably similar to Pratham
+    OBC — Probably same as Pratham
+    Mainly there isn’t much data on this satellite
+
+
+———————————————————————————————————————
+
+———————————————————————————————————————
