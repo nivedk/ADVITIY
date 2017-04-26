@@ -1,15 +1,15 @@
 # Different mechanisms we can use
 
-  * Cable and bolt cutters
+* Cable and bolt cutters
 
-  * Pinpullers and pinpushers
+* Pinpullers and pinpushers
 
-   + Pyrotechnic
+ * Pyrotechnic
 
-   + Paraffin
+ * Paraffin
 
-   + Solenoid
+ * Solenoid
 
-   * Motor driven latch
+* Motor driven latch
 
-   * Shape memory alloy
+* Shape memory alloy
