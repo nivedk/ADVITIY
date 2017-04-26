@@ -1,20 +1,19 @@
-PIN PULLER
+# PIN PULLER
 
 Way of storing potential energy for one time deployment of the satellite
 
-TYPES OF PINPULLERS
+## TYPES OF PINPULLERS
 
-PYROTECHNIC
+### PYROTECHNIC
 
 	- Basically uses an explosive reaction to deploy.
 
-PARAFFIN
+### PARAFFIN
 
-SOLENOID
+### SOLENOID
 
-————————————————————————————————————————————————————————————————————————————————
 
-PYROTECHNIC
+## PYROTECHNIC
 
 Widely used for aerospace applications
 
@@ -35,7 +34,7 @@ Here are the basic steps:
 	
 It has two NSIs just as a safety precaution in case one fails
 	
-PROS
+### PROS
 
 	- Low power consumption (We don't have to put extra solar panels for one burst of power
 	- Cheap
@@ -44,13 +43,12 @@ PROS
 	- High presures generated
 	- Quick (Probably doesn't matter for us)
 	
-CONS
+### CONS
 
 	- Hazardous
 	- Pyrotechnic shock(A mars observer satellite mission failed because of this)
 	- Safety procedures need to be increased in all stages
 	- Need to be installed by a trained technician
 	- Neither reusable nor resettable (doesn't matter for us)
-
 
 
