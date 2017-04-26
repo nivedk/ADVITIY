@@ -4,11 +4,11 @@
 
 * Pinpullers and pinpushers
 
- * Pyrotechnic
+  * Pyrotechnic
 
- * Paraffin
+  * Paraffin
 
- * Solenoid
+  * Solenoid
 
 * Motor driven latch
 
