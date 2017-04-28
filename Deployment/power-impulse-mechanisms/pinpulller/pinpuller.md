@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PIN PULLER
 
 Way of storing potential energy for one time deployment of the satellite
@@ -15,6 +16,24 @@ SOLENOID
 ————————————————————————————————————————————————————————————————————————————————
 
 PYROTECHNIC
+=======
+# PIN PULLER
+
+Way of storing potential energy for one time deployment of the satellite
+
+## TYPES OF PINPULLERS
+
+### PYROTECHNIC
+
+	- Basically uses an explosive reaction to deploy.
+
+### PARAFFIN
+
+### SOLENOID
+
+
+## PYROTECHNIC
+>>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 Widely used for aerospace applications
 
@@ -35,7 +54,11 @@ Here are the basic steps:
 	
 It has two NSIs just as a safety precaution in case one fails
 	
+<<<<<<< HEAD
 PROS
+=======
+### PROS
+>>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 	- Low power consumption (We don't have to put extra solar panels for one burst of power
 	- Cheap
@@ -44,7 +67,11 @@ PROS
 	- High presures generated
 	- Quick (Probably doesn't matter for us)
 	
+<<<<<<< HEAD
 CONS
+=======
+### CONS
+>>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 	- Hazardous
 	- Pyrotechnic shock(A mars observer satellite mission failed because of this)
@@ -53,4 +80,7 @@ CONS
 	- Neither reusable nor resettable (doesn't matter for us)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
