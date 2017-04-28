@@ -15,4 +15,5 @@ More details about how it works [here](https://www.researchgate.net/publication/
 
 It has been used in previous space missions. Especially when deployment is required without creating much shock.
 * Clementine deployed its solar panels using FRANGIBOLT (1994).
-* Used in the Kaber Small Satellite Deployment System on the ISS. [more here](http://nanoracks.com/wp-content/uploads/Kaber-Small-Satellite-Deployment-System-Presentation.pdf)
+* Used in the Kaber Small Satellite Deployment System on the ISS (2016). [more here](http://nanoracks.com/wp-content/uploads/Kaber-Small-Satellite-Deployment-System-Presentation.pdf)
+* Used in Sapphire vehicle separation system(Stanford's first Student Satllite)
