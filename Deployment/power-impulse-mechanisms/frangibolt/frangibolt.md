@@ -19,15 +19,19 @@ More details about how it works [here](https://www.researchgate.net/publication/
 The orange part is the SMA with the heater. When current is passed, it is heated up, hence the notched bolt becomes tense and cracks.
 
 ## PROS
-    - Non destructive
-    - Allows repeated testing, hence is cosst efficient
-    - Less shock while releasing, hence much better tha npyrotechnic etc, if there are fragile components on board (missions have failed due to high shock from deployment
+* Non destructive **More research needed**
+* Allows repeated testing, hence is cost efficient
+* Less shock while releasing, hence much better than pyrotechnic etc, if there are fragile components on board (missions have failed due to high shock from deployment) **More research needed**
+* Can be used as a system to give proof of succesful deployment. (As once deployment takes place, the bolt is broken, hence the load becomes 0. ** CHECK THE FEASABILITY OF THAT AND LOOK FOR OTHER ALTERNATIVES**
+* Has a low weight (in the range of a 100 grams) **COMPARE WITH WEIGHTS OF OTHER ATERNATIVES**
     
 
 ## CONS
 
-    - The response time is not immediate, and is not a fixed value. ~ 30 seconds in the ones I saw
-    - Not too powerful (Can be dealt with by using multiple, but then, they might
+* The response time is not immediate, and is not a fixed value. ~ 30 seconds in the ones I saw **IS THIS A PROBLEM?**
+* Not too powerful (Can be dealt with by using multiple, but then, they might not launch synchronously at the same time). However, there are frangibolts that generate forces in the range of 44 kilonewtons **Find out more about the significance of that number, AND IN GENERAL HOW POWERFUL A FRANGIBOLT IS**
+* Large heating currents **AGAIN GET VALUES**
+
 
 
 ## SPACE HERITAGE
