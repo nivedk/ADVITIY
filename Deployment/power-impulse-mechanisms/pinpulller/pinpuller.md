@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-PIN PULLER
+
+# PIN PULLER
 
 Way of storing potential energy for one time deployment of the satellite
 
@@ -33,7 +33,6 @@ Way of storing potential energy for one time deployment of the satellite
 
 
 ## PYROTECHNIC
->>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 Widely used for aerospace applications
 
@@ -54,24 +53,20 @@ Here are the basic steps:
 	
 It has two NSIs just as a safety precaution in case one fails
 	
-<<<<<<< HEAD
 PROS
 =======
 ### PROS
->>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 	- Low power consumption (We don't have to put extra solar panels for one burst of power
 	- Cheap
 	- Low mass
 	- Non Magnetic (so can be placed anywhere on the satellite)
 	- High presures generated
-	- Quick (Probably doesn't matter for us)
+	- Quick - respond within seconds (Probably doesn't matter for us)
 	
-<<<<<<< HEAD
 CONS
 =======
 ### CONS
->>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
 
 	- Hazardous
 	- Pyrotechnic shock(A mars observer satellite mission failed because of this)
@@ -79,8 +74,3 @@ CONS
 	- Need to be installed by a trained technician
 	- Neither reusable nor resettable (doesn't matter for us)
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 498325eb88cf50b1c4c865bec19da45eb3482d6e
